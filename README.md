@@ -1,4 +1,4 @@
-This repository contains data and source code used in the manuscript [“Earth’s earliest continental crust is not dominated by the tonalite–trondhjemite–granodiorite (TTG) series”] submitted to PNAS on 28th June, 2022, by Shihua Zhong, Sanzhong Li, Yang Liu, Peter A. Cawood and Reimar Seltmann. All code by the authors is released under an [MIT open-source license](LICENSE)
+This repository contains data and source code used in the manuscript [“Machine learning reveals compositions of Earth’s earliest continental crust”] submitted to Communications Earth & Environment on 14th Aug, 2022, by Shihua Zhong, Sanzhong Li, Yang Liu, Peter A. Cawood and Reimar Seltmann. All code by the authors is released under an [MIT open-source license](LICENSE)
 
 CONTENTS:
 
