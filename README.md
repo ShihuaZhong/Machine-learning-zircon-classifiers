@@ -1,4 +1,4 @@
-This repository contains data and source code used in the manuscript [“Machine learning reveals compositions of Earth’s earliest continental crust”] submitted to Communications Earth & Environment on 14th Aug, 2022, by Shihua Zhong, Sanzhong Li, Yang Liu, Peter A. Cawood and Reimar Seltmann. All code by the authors is released under an [MIT open-source license](LICENSE)
+This repository contains data and source code used in the manuscript [“I-type and S-type granites of Earth’s earliest continental crust”] published in Communications Earth & Environment on 2023, by Shihua Zhong, Sanzhong Li, Yang Liu, Peter A. Cawood and Reimar Seltmann. All code by the authors is released under an [MIT open-source license](LICENSE)
 
 CONTENTS:
 
