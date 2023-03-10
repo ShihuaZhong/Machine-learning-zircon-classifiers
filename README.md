@@ -6,6 +6,7 @@ CONTENTS:
 
 [Code]: This directory contains a program in python format. The program includes three parts: parameter optimization, dataset training, and prediction of zircon types.
 
+A .py named zircon classifier can be used for zircon prediction.
 
 
 INSTALLATION:
